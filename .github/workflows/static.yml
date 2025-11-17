@@ -1,0 +1,4 @@
+<h1 class="fade">Mon Site Dark</h1>
+<p class="fade">Bienvenue dans l'univers sombre et moderne.</p>
+<button onclick="action()" class="fade">En savoir plus</button>
+<button onclick="toggleTheme()" class="fade">Changer de thème</button>
